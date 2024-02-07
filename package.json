@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.11.13"
+  },
+  "dependencies": {
+    "openai": "^4.26.0"
+  }
+}

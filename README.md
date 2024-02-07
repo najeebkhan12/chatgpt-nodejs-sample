@@ -1,2 +1,2 @@
 # chatgpt-nodejs-sample
-OpenAI ChatGPT Integration example NodeJS
+OpenAI ChatGPT Integration example NodeJS 
