@@ -1,5 +1,4 @@
-# chatgpt-nodejs-sample
-OpenAI ChatGPT Integration in NodeJS Examples
+# OpenAI ChatGPT Integration in NodeJS Examples
 
 This GitHub repository provides two comprehensive examples showcasing the integration of ChatGPT within NodeJS applications. With the rising interest in conversational AI, leveraging ChatGPT's capabilities in NodeJS environments becomes increasingly valuable. Whether you're a developer looking to enhance user interactions or exploring the potential of AI-driven applications, these examples offer a solid starting point.
 
