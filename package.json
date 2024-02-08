@@ -4,6 +4,7 @@
     "@types/node": "^20.11.13"
   },
   "dependencies": {
+    "moment-timezone": "^0.5.45",
     "openai": "^4.26.0"
   }
 }
